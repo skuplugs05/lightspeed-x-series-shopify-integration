@@ -1,2 +1,2 @@
 # lightspeed-x-series-shopify-integration
-Seamlessly sync Lightspeed X Series with Shopify using SKUPlugs to automate inventory, orders, and product management across channels.
+[**Lightspeed X Shopify integration with SKUPlugs**](https://skuplugs.com/lightspeed-x-series-shopify-integration/) helps retailers seamlessly connect their in-store POS and online store. The integration automatically syncs products, inventory, and orders between Lightspeed X Series and Shopify in real time. This eliminates manual data entry, prevents stock mismatches, and ensures accurate order management across channels. With SKUPlugs, businesses gain better visibility, faster fulfillment, and a unified retail experience that supports growth and improves overall operational efficiency.
